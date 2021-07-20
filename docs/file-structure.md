@@ -2,22 +2,22 @@ All files and directories are created on every login to the system (mention the 
 
 === "/bin"
 
-    - `/bin` is a place where all system commands are kept.
+    - `/bin` contains all system commands.
 
 === "/home"
 
     - `/home` contains user account directories
-    - `/home/{user.id}` is a user folder
+    - `/home/{user.id}` contains the user files
 
 === "/home/{user.id}/local"
 
-    - `/home/{user.id}/local` is where your autorun/script folders are stored
-    - `/home/{user.id}/local/autorun` is where you place shell scripts to be autoran every login
-    - `/home/{user.id}/local/bin` is where you place shell scripts to be accessed globally withn your account
+    - `/home/{user.id}/local` contains the user's autorun/script folders
+    - `/home/{user.id}/local/autorun` contains the user's shell scripts to be autoran every login
+    - `/home/{user.id}/local/bin` contains the user's shell scripts which can be accessed globally within their account
 
 === "/packages"
 
-    - `/packages` is where all command packages are kept
+    - `/packages` contains all installed packages
     - `/packages/{package}`  contains all the package files
     - `/packages/{package}/commands`  contains all the package commands
 
