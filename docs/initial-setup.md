@@ -4,11 +4,17 @@ In a terminal in the bot folder run the following:
 
 1. `git clone https://github.com/CyberL1/Discord-Bash.git`  
 
-![Cloning the repo](showcases/initial-setup/1.png)
+<figure>
+    <img src="showcases/initial-setup/1.png" alt="Image">
+    <figcaption>Cloning the repository</figcaption>
+</figure>
 
 2. `cd Discord-Bash`
 
-![Entering the repo directory](showcases/initial-setup/2.png)
+<figure>
+    <img src="showcases/initial-setup/2.png" alt="Image">
+    <figcaption>Entering the repository directory</figcaption>
+</figure>
 
 ## Requirements
  - `git` can be installed with `sudo apt install git`
