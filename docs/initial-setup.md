@@ -7,5 +7,5 @@ In a terminal in the bot folder run the following:
 
 ## Requirements
  - `git` can be installed with `sudo apt install git`
- - `node` [Version 12.0.0 or higher](https://github.com/nodesource/distributions#installation-instructions)
+ - `node` [Version 12.0.0 or higher](https://github.com/nodesource/distributions#installation-instructions){target="_blank"}
  - `wget` can be installed with `sudo apt install wget`
