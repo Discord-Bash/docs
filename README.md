@@ -1,3 +1,8 @@
-# Example MkDocs deploy GitHub Action
+# Discord-Bash Docs
 
-This is a template that uses the  [MkDocs deploy](https://github.com/marketplace/actions/deploy-mkdocs) GitHub action.
+## Status
+[![Publish docs via Github pages](https://github.com/Discord-Bash/docs/actions/workflows/build.yml/badge.svg)](https://github.com/Discord-Bash/docs/actions/workflows/deploy.yml/badge.svg)
+
+## Links
+Man repo: https://github.com/CyberL1/Discord-Bash
+Docs: https://discord-bash.github.io/docs

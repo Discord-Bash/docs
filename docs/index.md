@@ -1,40 +1,4 @@
-## Sample
+## Links
 
-One more, finally. Or not? :)
-
-Now:
-
-```
-$ some 
-```
-
-Look what she said:
-
-> This is it!
-
-### Subtitle
-
-And now this:
-
-- One
-- Two
-- Three
-
-
-#### As well
-
-#### As this
-
-### Another
-
-[a link](https://aws.com)
-
-More?
-
-
-Can we now have `the build`?
-
-NOW!
-
-
-Not gonna work, is it?
+Main repo: [https://github.com/CyberL1/Discord-Bash](https://github.com/CyberL1/Discord-Bash)  
+This page: [https://discord-bash.github.io/docs](https://discord-bash.github.io/docs)

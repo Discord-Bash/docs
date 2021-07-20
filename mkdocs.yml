@@ -1,10 +1,16 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_name: Discord-Bash Docs
+site_description: 'Docs for Discord-Bash'
+site_author: 'Cyber'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_url: 'https://github.com/CyberL1/Discord-Bash'
 nav:
     - Home: index.md
+    - Initial setup: initial-setup.md
+    - Setup: setup.md
+    - File structure: file-structure.md
+    - Troubleshooting: troubleshooting.md
 theme:
   name: 'material'
+markdown_extensions:
+  - pymdownx.tabbed
+  - admonition
