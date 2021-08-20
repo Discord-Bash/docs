@@ -3,6 +3,7 @@ site_description: 'Docs for Discord-Bash'
 site_author: 'Cyber'
 docs_dir: docs/
 repo_url: 'https://github.com/CyberL1/Discord-Bash'
+edit_uri: 'https://github.com/Discord-Bash/docs/edit/main/docs'
 nav:
     - Home: index.md
     - Initial setup: initial-setup.md
